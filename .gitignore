@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Kotlin)/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/
+/Simple Tic-Tac-Toe (Kotlin)/task/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Processing strings/Create a euphonious word/out/
+/Topics/Processing strings/Create a euphonious word/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
